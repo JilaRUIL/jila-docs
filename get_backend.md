@@ -6,7 +6,7 @@ Backend Installation
 
 Fetch the code (the forked code is compatibile with more recent software versions).
 
-    git clone https://github.com/benfoley/jila-backend.git
+    git clone https://github.com/JilaRUIL/jila-backend.git
 
 Install the gems. 
 

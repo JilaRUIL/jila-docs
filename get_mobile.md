@@ -6,7 +6,7 @@ Mobile Installation
 
 Fetch the code (the forked code is compatibile with more recent software versions).
 
-    git clone https://github.com/benfoley/jila-mobile.git
+    git clone https://github.com/JilaRUIL/jila-mobile.git
 
 Change into the new directory.
 

@@ -7,8 +7,8 @@ Jila is an open-source framework allowing communities with endangered languages 
 
 The framework has been forked to update the code to use more recent versions of the packages it requires, and includes some changes to media management. The links to the forks are :
 
-- [backend](https://github.com/benfoley/jila-backend)
-- [mobile](https://github.com/benfoley/jila-mobile)
+- [backend](https://github.com/JilaRUIL/jila-backend)
+- [mobile](https://github.com/JilaRUIL/jila-mobile)
 
 Documentation
 -----
